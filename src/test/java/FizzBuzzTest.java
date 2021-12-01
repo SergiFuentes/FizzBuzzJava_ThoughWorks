@@ -108,7 +108,7 @@ public class FizzBuzzTest {
     }
 
     @Test
-    public void testSiElNumeroEs50PintaBuzz(){
+    public void testSiElNumeroEs5PintaBuzz(){
         // preparamos
         FizzBuzz fizzBuzz = new FizzBuzz();
 
@@ -121,7 +121,7 @@ public class FizzBuzzTest {
     }
 
     @Test
-    public void testSiElNumeroEs150PintaFizzBuzz(){
+    public void testSiElNumeroEs15PintaFizzBuzz(){
         // preparamos
         FizzBuzz fizzBuzz = new FizzBuzz();
 
